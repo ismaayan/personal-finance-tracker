@@ -75,7 +75,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬Contact
 
-For questions or feedback, feel free to open an issue in the repository or contact the maintainer:
+- [GitHub Profile](https://github.com/ismaayan)
+- [LinkedIn Profile](https://www.linkedin.com/in/maayanisrael)
 
-- **GitHub**: [ismaayan](https://github.com/ismaayan)
+Feel free to reach out for any questions or collaborations!
+
+
 
