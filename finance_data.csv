@@ -1,0 +1,45 @@
+Date,amount,category,description
+20-10-2023,1500,Income,Monthly salary
+10-11-2023,2000,Income,Web development project
+15-11-2023,300.0,Expense,Car maintenance
+01-12-2023,600.0,Income,Mutual fund
+05-12-2023,100.0,Income,Interest from savings
+11-12-2023,250.0,Expense,Groceries
+20-12-2023,1200,Income,Monthly salary
+01-01-2024,700.0,Income,Stocks purchase
+05-01-2024,150.0,Expense,Electricity bill
+15-01-2024,500.0,Income,Side business
+25-01-2024,300.0,Expense,Household items
+01-02-2024,50.0,Expense,Coffee subscription
+10-02-2024,2500,Income,Mobile app project
+20-02-2024,1800,Income,Monthly salary
+05-03-2024,600.0,Income,Real estate crowdfunding
+10-03-2024,120.0,Expense,Internet bill
+15-03-2024,200.0,Income,Dividend payment
+25-03-2024,400.0,Expense,Transportation
+01-04-2024,1500.0,Income,Tax refund
+05-04-2024,800.0,Expense,Rent
+10-04-2024,350.0,Expense,Medical bill
+15-04-2024,2200.0,Income,Freelance graphic design project
+20-04-2024,100.0,Expense,Streaming subscription
+01-05-2024,1800.0,Income,Monthly salary
+05-05-2024,500.0,Income,Sale of old furniture
+10-05-2024,300.0,Expense,Pet supplies
+15-05-2024,400.0,Income,Photography side hustle
+20-05-2024,700.0,Expense,Weekend trip
+25-05-2024,250.0,Income,Interest from bond
+01-06-2024,2000.0,Income,Consulting project
+10-06-2024,100.0,Expense,Office supplies
+15-06-2024,1200.0,Income,Quarterly bonus
+20-06-2024,500.0,Expense,Car insurance
+01-07-2024,2500.0,Income,Software development project
+05-07-2024,900.0,Expense,Vacation rental
+10-07-2024,75.0,Expense,Online course
+15-07-2024,800.0,Income,Freelance writing
+20-07-2024,350.0,Expense,Utility bills
+25-07-2024,450.0,Income,Content creation earnings
+01-08-2024,3000.0,Income,Client project payment
+05-08-2024,150.0,Expense,Restaurant dinner
+10-08-2024,600.0,Expense,Furniture purchase
+15-08-2024,500.0,Income,Royalty payments
+20-08-2024,1200.0,Income,Monthly salary
