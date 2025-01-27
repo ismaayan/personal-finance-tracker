@@ -76,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬Contact
 
 - [GitHub Profile](https://github.com/ismaayan)
-- [LinkedIn Profile](https://www.linkedin.com/in/maayanisrael)
+- [LinkedIn Profile](https://www.linkedin.com/in/maayan-israel/)
 
 Feel free to reach out for any questions or collaborations!
 
